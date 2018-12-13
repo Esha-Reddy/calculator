@@ -19,7 +19,7 @@ body {
 	height: 20vh;
 	width: 100%;
 	color: black;
-	background-color: #bccd95;
+	background-color: #BEFFC8;
 	font-size: 8vw;
 	text-align: right;
 	border: 8px solid #bfc4ce;
@@ -49,19 +49,19 @@ body {
 }
 .button.function {
 	color: white;
-	background-color: #c64f81;
+	background-color: #FF8591;
 	border-bottom: black 8px solid;
 	border-top: 4px #6f6f6f solid;
 }
 .button.operator {
 	color: white;
-	background-color: #4d5966;
+	background-color: #CC6A74;
 	border-bottom: black 8px solid;
 	border-top: 4px #6f6f6f solid;
 }
 .button.number {
 	color: white;
-	background-color: #7091ab;
+	background-color: #FFCED3;
 	border-bottom: black 8px solid;
 	border-top: 4px #6f6f6f solid;
 }
