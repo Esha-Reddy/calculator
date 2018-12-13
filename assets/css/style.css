@@ -24,6 +24,7 @@ body {
 	text-align: right;
 	border: 8px solid #bfc4ce;
 	padding: 0px;
+	font-family: monospace;
 }
 
 /* Calculator Buttons */
