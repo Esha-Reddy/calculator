@@ -8,6 +8,10 @@ A very simple calculator, built as a Progressive Web App.
 
 ### Changelog
 
+**Version 1.3.1**
+
+- Took out border on display
+
 **Version 1.3.0**
 
 - Fixed Folder Bug
