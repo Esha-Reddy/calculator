@@ -82,6 +82,5 @@ var Calculator = {
 			document.getElementById("d").value = temp;
 		}, 1000);
 	},
-	
+
 	}
-}
